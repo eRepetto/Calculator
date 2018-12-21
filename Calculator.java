@@ -12,10 +12,7 @@ package calculator;
 
 import java.awt.Dimension;
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
-
-
 
 /**
  * This class contain the main method that will run the program
@@ -50,8 +47,7 @@ public class Calculator {
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setLocationRelativeTo(null);
 				frame.setContentPane(calculator);
-				frame.setVisible(true);
-				
+				frame.setVisible(true);			
 
 			}
 
